@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab6\lab61t\bin\Release\net8.0\lab61t.exe
+C:\Users\vinil\source\repos\lab6\lab61t\bin\Release\net8.0\lab61t.deps.json
+C:\Users\vinil\source\repos\lab6\lab61t\bin\Release\net8.0\lab61t.runtimeconfig.json
+C:\Users\vinil\source\repos\lab6\lab61t\bin\Release\net8.0\lab61t.dll
+C:\Users\vinil\source\repos\lab6\lab61t\bin\Release\net8.0\lab61t.pdb
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\lab61t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\lab61t.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\lab61t.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\lab61t.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\lab61t.dll
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\refint\lab61t.dll
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\lab61t.pdb
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\lab61t.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab6\lab61t\obj\Release\net8.0\ref\lab61t.dll
