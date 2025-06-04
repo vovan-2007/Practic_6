@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab6\lab6t14\bin\Release\net8.0\lab6t14.exe
+C:\Users\vinil\source\repos\lab6\lab6t14\bin\Release\net8.0\lab6t14.deps.json
+C:\Users\vinil\source\repos\lab6\lab6t14\bin\Release\net8.0\lab6t14.runtimeconfig.json
+C:\Users\vinil\source\repos\lab6\lab6t14\bin\Release\net8.0\lab6t14.dll
+C:\Users\vinil\source\repos\lab6\lab6t14\bin\Release\net8.0\lab6t14.pdb
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\lab6t14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\lab6t14.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\lab6t14.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\lab6t14.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\lab6t14.dll
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\refint\lab6t14.dll
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\lab6t14.pdb
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\lab6t14.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab6\lab6t14\obj\Release\net8.0\ref\lab6t14.dll
